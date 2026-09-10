@@ -1,2 +1,26 @@
-# web-traffic-trend-analyzer
-A Python-based web traffic analytics and prediction project using Lagrange Interpolation and Newton's Divided Difference.
+# Web Traffic Trend Analyzer
+
+A Python-based Data Analytics project for analyzing and predicting web traffic.
+
+## Features
+
+- Web traffic analysis
+- Lagrange Interpolation
+- Newton's Divided Difference
+- Future traffic prediction
+- Traffic visualization
+- Graph export
+
+## Technologies
+
+- Python
+- NumPy
+- Matplotlib
+- Tkinter
+
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
